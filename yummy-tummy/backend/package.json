@@ -4,7 +4,7 @@
   "description": "Back end for yummy tummy food delivery app",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon"
+    "start": "node index.js"
   },
   "author": "Twinkle",
   "license": "ISC",
